@@ -2,7 +2,7 @@
 
 基于vue开发的物流配送管理系统，该部分为前台客户使用部分，可进行寄件，订单追踪，订单查询和站点查询等操作。
 
-前台管理员使用部分地址为
+前台管理员使用部分项目地址为https://github.com/Clarsw/logistics_front_administrator
 
 
 > A Vue.js project
